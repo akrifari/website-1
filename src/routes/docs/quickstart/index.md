@@ -11,10 +11,24 @@ title: Quickstart
 
 Learn how to start using Gitpod on an example project that is hosted on GitHub in less than 5 minutes. For simplicity we use GitHub as the git hoster but the steps outlined work equally well for GitLab and Bitbucket. This section helps you understand the features and advantages of Gitpod in a learning environment. All templates are pre-configured to use Gitpod and ready-to-code:
 
+- [C](/docs/quickstart/c)
+- [C++](/docs/quickstart/cpp)
+- [Coq](/docs/quickstart/coq)
+- [Datasette](/docs/quickstart/datasette)
 - [Deno](/docs/quickstart/deno)
+- [Docker Compose](/docs/quickstart/docker-compose)
+- [Flutter](/docs/integrations/flutter)
 - [Go](/docs/quickstart/go)
+- [Grain](/docs/quickstart/grain)
+- [Haskell](/docs/quickstart/haskell)
 - [Java Spring](/docs/quickstart/java)
+- [Jetbrains](/docs/integrations/jetbrains)
+- [Julia](/docs/quickstart/julia)
+- [NextJS](/docs/quickstart/nextjs)
+- [Nix](/docs/quickstart/nix)
 - [Node/TypeScript/Express](/docs/quickstart/typescript)
+- [OCaml](/docs/quickstart/ocaml)
+- [Perl](/docs/quickstart/perl)
 - [PHP Drupal](/docs/quickstart/drupal)
 - [PHP Laravel](/docs/quickstart/laravel)
 - [Python Django](/docs/quickstart/python)
@@ -22,14 +36,11 @@ Learn how to start using Gitpod on an example project that is hosted on GitHub i
 - [React](/docs/quickstart/react)
 - [Ruby on Rails](/docs/quickstart/ruby-on-rails)
 - [Rust](/docs/quickstart/rust)
+- [Scala](/docs/integrations/scala)
 - [Svelte](/docs/quickstart/svelte)
-- [Datasette](/docs/quickstart/datasette)
-- [Nix](/docs/quickstart/nix)
-- [Haskell](/docs/quickstart/haskell)
-- [C](/docs/quickstart/c)
-- [Perl](/docs/quickstart/perl)
-- [Julia](/docs/quickstart/julia)
-- [Docker Compose](/docs/quickstart/docker-compose)
+- [TLA+](/docs/integrations/tlaplus)
+- [Wordpress](/docs/quickstart/wordpress)
+- [X11 VNC](/docs/quickstart/x11-vnc)
 
 ## Installing the Gitpod browser extension
 
